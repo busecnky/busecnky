@@ -31,5 +31,5 @@
 <br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=busecnky&show_icons=true&theme=dark)
 <br></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=busecnky)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=busecnky)](https://git.io/streak-stats)
 
